@@ -1,6 +1,7 @@
-* {
+
+			* {
 				font-family: Arial, Verdana, sans-serif;
-				color: #665544;
+				color: #F0F8FF;
 				text-align: center;}
 			body {
 				background: rgba(82,255,96,1);
@@ -25,10 +26,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#52ff60', end
 				display: inline;
 				padding: 0.5em;}
 			#nav, #footer {
-				background-color: #efefef;
+				background-color: #8B008B;
 				padding: 0.5em 0;}
 			#feature, .article {
 				height: 10em;
 				margin-bottom: 1em;
-				background-color: #efefef;}
+				background-color: #8B008B;}
 		</style>
