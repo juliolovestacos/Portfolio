@@ -1,0 +1,35 @@
+
+			* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #F0F8FF;
+				text-align: center;}
+			body {
+				background: rgba(82,255,96,1);
+background: -moz-linear-gradient(left, rgba(82,255,96,1) 0%, rgba(59,237,118,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(82,255,96,1)), color-stop(100%, rgba(59,237,118,1)));
+background: -webkit-linear-gradient(left, rgba(82,255,96,1) 0%, rgba(59,237,118,1) 100%);
+background: -o-linear-gradient(left, rgba(82,255,96,1) 0%, rgba(59,237,118,1) 100%);
+background: -ms-linear-gradient(left, rgba(82,255,96,1) 0%, rgba(59,237,118,1) 100%);
+background: linear-gradient(to right, rgba(82,255,96,1) 0%, rgba(59,237,118,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#52ff60', endColorstr='#3bed76', GradientType=1 );}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #8B008B;
+				padding: 0.5em 0;}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #8B008B;}
+		</style>
