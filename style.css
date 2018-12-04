@@ -4,14 +4,8 @@
 				color: #F0F8FF;
 				text-align: center;}
 			body {
-				background: rgba(82,255,96,1);
-background: -moz-linear-gradient(left, rgba(82,255,96,1) 0%, rgba(59,237,118,1) 100%);
-background: -webkit-gradient(left top, right top, color-stop(0%, rgba(82,255,96,1)), color-stop(100%, rgba(59,237,118,1)));
-background: -webkit-linear-gradient(left, rgba(82,255,96,1) 0%, rgba(59,237,118,1) 100%);
-background: -o-linear-gradient(left, rgba(82,255,96,1) 0%, rgba(59,237,118,1) 100%);
-background: -ms-linear-gradient(left, rgba(82,255,96,1) 0%, rgba(59,237,118,1) 100%);
-background: linear-gradient(to right, rgba(82,255,96,1) 0%, rgba(59,237,118,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#52ff60', endColorstr='#3bed76', GradientType=1 );}
+  background: linear-gradient(Green,black, white,purple);
+}
 			#content {
 				overflow: auto;}
 			#nav, #feature, #footer {
