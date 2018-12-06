@@ -3,6 +3,8 @@
 				color: #F0F8FF;
 				text-align: center;}
 			body {
+  background: url(about.jpg);
+}
 			#content {
 				overflow: auto;}
 			#nav, #feature, #footer {
